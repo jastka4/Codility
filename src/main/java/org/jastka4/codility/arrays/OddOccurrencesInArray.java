@@ -1,4 +1,4 @@
-package org.jastka4.codility;
+package org.jastka4.codility.arrays;
 
 import java.util.HashMap;
 import java.util.HashSet;

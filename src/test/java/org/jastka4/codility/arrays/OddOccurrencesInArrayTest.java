@@ -1,4 +1,4 @@
-package org.jastka4.codility;
+package org.jastka4.codility.arrays;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

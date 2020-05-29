@@ -1,5 +1,6 @@
-package org.jastka4.codility;
+package org.jastka4.codility.iterations;
 
+import org.jastka4.codility.TimingExtension;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

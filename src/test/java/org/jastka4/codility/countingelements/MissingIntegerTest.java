@@ -1,5 +1,6 @@
-package org.jastka4.codility;
+package org.jastka4.codility.countingelements;
 
+import org.jastka4.codility.TimingExtension;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
 

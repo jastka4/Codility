@@ -11,8 +11,6 @@
 package org.jastka4.codility;
 
 // tag::user_guide[]
-import java.lang.reflect.Method;
-import java.util.logging.Logger;
 
 import org.junit.jupiter.api.extension.AfterTestExecutionCallback;
 import org.junit.jupiter.api.extension.BeforeTestExecutionCallback;
@@ -20,7 +18,11 @@ import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.api.extension.ExtensionContext.Namespace;
 import org.junit.jupiter.api.extension.ExtensionContext.Store;
 
+import java.lang.reflect.Method;
+import java.util.logging.Logger;
+
 // end::user_guide[]
+
 /**
  * Simple extension that <em>times</em> the execution of test methods and
  * logs the results at {@code INFO} level.
